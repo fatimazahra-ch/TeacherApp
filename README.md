@@ -1,2 +1,5 @@
 # TeacherApp
- "Teacher App" is a website that facilitates management at the Mathematics and Computer Science Department level of the national school of applied science "ENSAH" , considered as a teacher management platform.
+ for the use of the application:
+1 - go to the authentication folder
+2 - go to the login.php file
+3 - To test the application, it is necessary to choose the information of a professor among the professors who are already existing in the database projet_web.db
